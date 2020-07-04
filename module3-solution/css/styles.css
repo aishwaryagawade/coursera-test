@@ -8,7 +8,7 @@ body {
   background-color: #A0A0A0;
   border-radius: 0;
   border: 0;
-  border-bottom: 1.5px solid black;
+  border-bottom: 1px solid black;
   }
 
 .navbar-brand {
@@ -28,7 +28,7 @@ body {
 
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1.5px solid #000000;
+  border: 1px solid #000000;
 
 }
 button.navbar-toggle{
